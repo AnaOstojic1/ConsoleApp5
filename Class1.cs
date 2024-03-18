@@ -10,3 +10,6 @@ namespace ConsoleApp5
     {   //Console.Writeline("Hello");
     }
 }
+
+
+//haha prenk
