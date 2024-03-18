@@ -10,3 +10,6 @@ namespace ConsoleApp5
     {
     }
 }
+
+
+//haha prenk
