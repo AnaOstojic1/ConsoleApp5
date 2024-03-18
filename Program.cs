@@ -4,3 +4,4 @@ Console.WriteLine("Novo");
 
 
 //necu ti nista diratiiii
+//ispravak prenka
